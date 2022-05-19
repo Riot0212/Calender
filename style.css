@@ -79,7 +79,7 @@ body {
     box-shadow: none !important;
   }
   #newEventModal, #deleteEventModal {
-    display: block;
+    display: none;
     z-index: 20;
     padding: 25px;
     background-color: #e8f4fa;
